@@ -1,0 +1,14 @@
+Build a Smartphone E-commerce Website 
+Add products to the cart.
+Remove products from the cart.
+Increase and decrease the number of products customers want to order.
+Make an order and checkout.
+Integrate the Stripe payment system.
+Display order info list.
+
+Use Technologies :
+React & Redux 
+Material UI 
+Node Js
+Sequelize (ORM) or MongoDB
+Express Js
